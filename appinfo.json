@@ -1,0 +1,18 @@
+{
+    "resources": {
+        "media": []
+    },
+    "capabilities": [
+        ""
+    ],
+    "uuid": "09309f3f-9cf6-40a6-ae39-a36b6b70f9b8",
+    "shortName": "Hello World",
+    "versionCode": 1,
+    "companyName": "kgmcauliffe@gmail.com",
+    "appKeys": {},
+    "longName": "Hello World",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
